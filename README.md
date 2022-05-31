@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @ReubenMech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <h1 align="center">Hi 👋, I'm Reuben Mech</h1>
 <h3 align="center">Just getting into frontend development and I am really excited!</h3>
+ 👀 I’m interested in Web designing
+- 🌱 I’m currently learning fronend development.
 
 - 📫 How to reach me **reubenmech0@gmail.com**
 
